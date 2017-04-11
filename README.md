@@ -1,2 +1,2 @@
 # latihan-2
-latihan-2
+hasil menambah git repository
